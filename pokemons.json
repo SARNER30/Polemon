@@ -1,5 +1,5 @@
 {
-  1:  [
+  "1":  [
     {"id": 1, "name": "Bulbasaur", "hp": 45, "attack": 49, "defense": 49, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"},
     {"id": 2, "name": "Ivysaur", "hp": 60, "attack": 62, "defense": 63, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"},
     {"id": 3, "name": "Venusaur", "hp": 80, "attack": 82, "defense": 83, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"},
@@ -101,7 +101,7 @@
     {"id": 99, "name": "Kingler", "hp": 55, "attack": 130, "defense": 115, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"},
     {"id": 100, "name": "Voltorb", "hp": 40, "attack": 30, "defense": 50, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"}
 ],
-2:  [
+"2":  [
     {"id": 101, "name": "Electrode", "hp": 60, "attack": 50, "defense": 70, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png"},
     {"id": 102, "name": "Exeggcute", "hp": 60, "attack": 40, "defense": 80, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png"},
     {"id": 103, "name": "Exeggutor", "hp": 95, "attack": 95, "defense": 85, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png"},
@@ -203,7 +203,7 @@
     {"id": 199, "name": "Slowking", "hp": 95, "attack": 75, "defense": 80, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png"},
     {"id": 200, "name": "Misdreavus", "hp": 60, "attack": 60, "defense": 60, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png"}
 ],
-3:  [
+"3":  [
 {"id": 201, "name": "Unown", "hp": 48, "attack": 72, "defense": 48, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png"},
 {"id": 202, "name": "Wobbuffet", "hp": 190, "attack": 33, "defense": 58, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png"},
 {"id": 203, "name": "Girafarig", "hp": 70, "attack": 80, "defense": 65, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png"},
@@ -305,7 +305,7 @@
 {"id": 299, "name": "Nosepass", "hp": 30, "attack": 45, "defense": 135, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png"},
 {"id": 300, "name": "Skitty", "hp": 50, "attack": 45, "defense": 45, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png"}
     ],
-4:  [
+"4":  [
 {"id": 301, "name": "Delcatty", "hp": 70, "attack": 65, "defense": 65, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png"},
 {"id": 302, "name": "Sableye", "hp": 50, "attack": 75, "defense": 75, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png"},
 {"id": 303, "name": "Mawile", "hp": 50, "attack": 85, "defense": 85, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png"},
@@ -405,9 +405,9 @@
 {"id": 397, "name": "Staravia", "hp": 55, "attack": 75, "defense": 50, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png"},
 {"id": 398, "name": "Staraptor", "hp": 85, "attack": 120, "defense": 70, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png"},
 {"id": 399, "name": "Bidoof", "hp": 59, "attack": 45, "defense": 40, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png"},
-{"id": 400, "name": "Bibarel", "hp": 79, "attack": 85, "defense": 60, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png"},
+{"id": 400, "name": "Bibarel", "hp": 79, "attack": 85, "defense": 60, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png"}
     ],
-5:     [
+"5":     [
     {"id": 401, "name": "Kricketot", "hp": 37, "attack": 25, "defense": 41, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png"},
     {"id": 402, "name": "Kricketune", "hp": 77, "attack": 85, "defense": 51, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png"},
     {"id": 403, "name": "Shinx", "hp": 45, "attack": 65, "defense": 34, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png"},
@@ -509,4 +509,4 @@
     {"id": 499, "name": "Pignite", "hp": 90, "attack": 93, "defense": 55, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png"},
     {"id": 500, "name": "Emboar", "hp": 110, "attack": 123, "defense": 65, "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png"}
     ]
-    }
+}
